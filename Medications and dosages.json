@@ -1,0 +1,252 @@
+[
+ {
+   "Medication": "Acetaminophen",
+   "Diseases used for": "Pain relief, fever reduction",
+   "Typical Dosage": "500-1000 mg every 4-6 hours as needed"
+ },
+ {
+   "Medication": "Albuterol",
+   "Diseases used for": "Asthma, COPD",
+   "Typical Dosage": "2 inhalations every 4-6 hours as needed"
+ },
+ {
+   "Medication": "Amlodipine",
+   "Diseases used for": "Hypertension, angina",
+   "Typical Dosage": "5-10 mg once daily"
+ },
+ {
+   "Medication": "Amoxicillin",
+   "Diseases used for": "Bacterial infections",
+   "Typical Dosage": "500-875 mg every 12 hours for 7-10 days"
+ },
+ {
+   "Medication": "Aripiprazole",
+   "Diseases used for": "Schizophrenia, bipolar disorder",
+   "Typical Dosage": "10-30 mg once daily"
+ },
+ {
+   "Medication": "Atorvastatin",
+   "Diseases used for": "High cholesterol",
+   "Typical Dosage": "10-80 mg once daily"
+ },
+ {
+   "Medication": "Azithromycin",
+   "Diseases used for": "Bacterial infections",
+   "Typical Dosage": "500 mg on day 1, then 250 mg daily for 4 days"
+ },
+ {
+   "Medication": "Bupropion",
+   "Diseases used for": "Depression, smoking cessation",
+   "Typical Dosage": "150-300 mg once or twice daily"
+ },
+ {
+   "Medication": "Celecoxib",
+   "Diseases used for": "Pain, arthritis",
+   "Typical Dosage": "100-200 mg once or twice daily"
+ },
+ {
+   "Medication": "Ciprofloxacin",
+   "Diseases used for": "Bacterial infections",
+   "Typical Dosage": "250-750 mg every 12 hours"
+ },
+ {
+   "Medication": "Citalopram",
+   "Diseases used for": "Depression",
+   "Typical Dosage": "20-40 mg once daily"
+ },
+ {
+   "Medication": "Clonazepam",
+   "Diseases used for": "Anxiety, seizures",
+   "Typical Dosage": "0.5-2 mg twice daily"
+ },
+ {
+   "Medication": "Clopidogrel",
+   "Diseases used for": "Blood clot prevention",
+   "Typical Dosage": "75 mg once daily"
+ },
+ {
+   "Medication": "Doxycycline",
+   "Diseases used for": "Bacterial infections",
+   "Typical Dosage": "100 mg twice daily"
+ },
+ {
+   "Medication": "Duloxetine",
+   "Diseases used for": "Depression, anxiety, nerve pain",
+   "Typical Dosage": "30-120 mg once daily"
+ },
+ {
+   "Medication": "Esomeprazole",
+   "Diseases used for": "GERD, stomach ulcers",
+   "Typical Dosage": "20-40 mg once daily"
+ },
+ {
+   "Medication": "Famotidine",
+   "Diseases used for": "GERD, acid reflux",
+   "Typical Dosage": "20-40 mg once or twice daily"
+ },
+ {
+   "Medication": "Fluoxetine",
+   "Diseases used for": "Depression, OCD",
+   "Typical Dosage": "20-80 mg once daily"
+ },
+ {
+   "Medication": "Furosemide",
+   "Diseases used for": "Edema, hypertension",
+   "Typical Dosage": "20-80 mg once or twice daily"
+ },
+ {
+   "Medication": "Gabapentin",
+   "Diseases used for": "Nerve pain, seizures",
+   "Typical Dosage": "300-1200 mg three times daily"
+ },
+ {
+   "Medication": "Hydrochlorothiazide",
+   "Diseases used for": "Hypertension, edema",
+   "Typical Dosage": "12.5-50 mg once daily"
+ },
+ {
+   "Medication": "Ibuprofen",
+   "Diseases used for": "Pain, inflammation, fever",
+   "Typical Dosage": "200-400 mg every 4-6 hours as needed"
+ },
+ {
+   "Medication": "Insulin",
+   "Diseases used for": "Diabetes",
+   "Typical Dosage": "Dosage varies; based on blood sugar levels"
+ },
+ {
+   "Medication": "Lamotrigine",
+   "Diseases used for": "Epilepsy, bipolar disorder",
+   "Typical Dosage": "25-200 mg once or twice daily"
+ },
+ {
+   "Medication": "Lantus (Insulin)",
+   "Diseases used for": "Diabetes",
+   "Typical Dosage": "Dosage varies; typically 10-20 units daily"
+ },
+ {
+   "Medication": "Levothyroxine",
+   "Diseases used for": "Hypothyroidism",
+   "Typical Dosage": "25-300 mcg once daily"
+ },
+ {
+   "Medication": "Levofloxacin",
+   "Diseases used for": "Bacterial infections",
+   "Typical Dosage": "250-750 mg once daily"
+ },
+ {
+   "Medication": "Lisinopril",
+   "Diseases used for": "High blood pressure, heart failure",
+   "Typical Dosage": "10-40 mg once daily"
+ },
+ {
+   "Medication": "Loratadine",
+   "Diseases used for": "Allergies",
+   "Typical Dosage": "10 mg once daily"
+ },
+ {
+   "Medication": "Losartan",
+   "Diseases used for": "High blood pressure",
+   "Typical Dosage": "50-100 mg once daily"
+ },
+ {
+   "Medication": "Metformin",
+   "Diseases used for": "Type 2 diabetes",
+   "Typical Dosage": "500-2000 mg daily, divided into doses"
+ },
+ {
+   "Medication": "Methotrexate",
+   "Diseases used for": "Rheumatoid arthritis, cancer",
+   "Typical Dosage": "7.5-25 mg once weekly"
+ },
+ {
+   "Medication": "Mirtazapine",
+   "Diseases used for": "Depression",
+   "Typical Dosage": "15-45 mg once daily"
+ },
+ {
+   "Medication": "Montelukast",
+   "Diseases used for": "Asthma, allergies",
+   "Typical Dosage": "10 mg once daily"
+ },
+ {
+   "Medication": "Naproxen",
+   "Diseases used for": "Pain, inflammation",
+   "Typical Dosage": "250-500 mg twice daily"
+ },
+ {
+   "Medication": "Olanzapine",
+   "Diseases used for": "Schizophrenia, bipolar disorder",
+   "Typical Dosage": "5-20 mg once daily"
+ },
+ {
+   "Medication": "Omeprazole",
+   "Diseases used for": "GERD, stomach ulcers",
+   "Typical Dosage": "20-40 mg once daily for 4-8 weeks"
+ },
+ {
+   "Medication": "Prednisone",
+   "Diseases used for": "Inflammation, autoimmune diseases",
+   "Typical Dosage": "5-60 mg daily depending on condition"
+ },
+ {
+   "Medication": "Propranolol",
+   "Diseases used for": "Hypertension, anxiety, migraines",
+   "Typical Dosage": "10-40 mg three times daily"
+ },
+ {
+   "Medication": "Ranitidine",
+   "Diseases used for": "GERD, stomach ulcers",
+   "Typical Dosage": "150-300 mg once or twice daily"
+ },
+ {
+   "Medication": "Rosuvastatin",
+   "Diseases used for": "High cholesterol",
+   "Typical Dosage": "5-40 mg once daily"
+ },
+ {
+   "Medication": "Sertraline",
+   "Diseases used for": "Depression, anxiety disorders",
+   "Typical Dosage": "50-200 mg once daily"
+ },
+ {
+   "Medication": "Simvastatin",
+   "Diseases used for": "High cholesterol",
+   "Typical Dosage": "10-40 mg once daily"
+ },
+ {
+   "Medication": "Spironolactone",
+   "Diseases used for": "Hypertension, fluid retention",
+   "Typical Dosage": "25-100 mg once or twice daily"
+ },
+ {
+   "Medication": "Tamsulosin",
+   "Diseases used for": "Benign prostatic hyperplasia",
+   "Typical Dosage": "0.4-0.8 mg once daily"
+ },
+ {
+   "Medication": "Topiramate",
+   "Diseases used for": "Epilepsy, migraines",
+   "Typical Dosage": "25-100 mg twice daily"
+ },
+ {
+   "Medication": "Tramadol",
+   "Diseases used for": "Moderate to severe pain",
+   "Typical Dosage": "50-100 mg every 4-6 hours as needed"
+ },
+ {
+   "Medication": "Venlafaxine",
+   "Diseases used for": "Depression, anxiety",
+   "Typical Dosage": "37.5-300 mg once daily"
+ },
+ {
+   "Medication": "Warfarin",
+   "Diseases used for": "Blood clot prevention",
+   "Typical Dosage": "Dose adjusted based on INR (typically 2-10 mg)"
+ },
+ {
+   "Medication": "Zolpidem",
+   "Diseases used for": "Insomnia",
+   "Typical Dosage": "5-10 mg before bedtime"
+ }
+]
